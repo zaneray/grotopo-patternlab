@@ -1,0 +1,31 @@
+//## Classes that effect color and background-color
+//
+
+.color-primary-color-lighter {
+  color: $primary-color-light;
+}
+
+.color-primary-color-darker {
+  color: $primary-color;
+}
+
+.color-primary-color-darker {
+  color: $primary-color-dark;
+}
+
+.color-brand-secondary {
+  color: $secondary-color;
+}
+
+.primary-color {background:$primary-color;}
+.primary-color-lighter {background:$primary-color-light;}
+.primary-color-darker {background:$primary-color-dark;}
+.secondary-color {background:$secondary-color;}
+.gray-base {background: $gray-base;}
+.gray-darker {background: $gray-darker;}
+.gray-dark {background: $gray-dark;}
+.gray {background: $gray;}
+.gray-light {background: $gray-light;}
+.gray-lighter {background: $gray-lighter;}
+.white {background: white;}
+.black {background: black;}
